@@ -13,5 +13,6 @@ def find_even_values(array_of_arrays)
       element_index += 1
     end
     row_index += 1
+  end
 end
  
